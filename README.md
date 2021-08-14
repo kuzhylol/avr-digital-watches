@@ -33,7 +33,3 @@ You will be able to set local time and alarm by 3 buttons.
 
 ## Demostration:
 ![demostration](watches.jpg)
-
-## Youtube video
-
-[click for watching](https://youtu.be/pT4G056z7jE)
